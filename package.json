@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "\"This is a test directory to learn Git and Node\"",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aman112/AngularProject.git"
+  },
+  "author": "Aman Aggarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aman112/AngularProject/issues"
+  },
+  "homepage": "https://github.com/aman112/AngularProject#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
